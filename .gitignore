@@ -1,0 +1,9 @@
+target/
+out/
+.idea/
+.classpath
+.project
+.settings/
+.vscode/
+*.class
+tickets.txt
